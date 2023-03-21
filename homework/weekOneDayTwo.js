@@ -33,9 +33,11 @@ if (fruit === "Apple") {
 
 console.log("Apple")
 
-function myFunction(parameter1, parameter2) {
+function getTotalSum(parameter1, parameter2) {
     const totalNumber = parameter1 + parameter2
-    console.log(totalNumber)
+    return totalNumber
 }
 
-myFunction(6, 7)
+const totalNumber = getTotalSum(6, 7)
+
+console.log(totalNumber)
