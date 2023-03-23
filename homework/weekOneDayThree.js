@@ -60,5 +60,10 @@ const favoriteSports = [
 function getFirstFromList(favoriteSports) {
     return favoriteSports[0]
 }
-console.log(getFirstFromList(favoriteSports)) 
+getFirstFromList(favoriteSports) 
  
+
+// wrong way : getFirstFromList(favoriteSports) =>  favoriteSports[0]
+// right way :const getFirstFromList = (favoriteSports) =>  favoriteSports[0]
+
+// const expressionName = () => {}
