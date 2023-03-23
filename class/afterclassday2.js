@@ -10,6 +10,6 @@ const render = getBoolean(true, true);
 console.log(render);
 
 // ternory 
-function learningConditional() {
-if (animal === "cat")
-}
+//function learningConditional() {
+//if (animal === "cat")
+//}
