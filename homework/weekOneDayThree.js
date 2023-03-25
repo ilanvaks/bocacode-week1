@@ -52,7 +52,7 @@ const favoriteSports = [
     "Basketball",
     "Baseball",
     "Football",
-    "Hockey"
+    "Volleyball"
 ]
 
 //4. Write a function to get the first element in an array. Invoke the function. (edited) 

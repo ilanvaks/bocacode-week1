@@ -17,7 +17,7 @@ console.log(student)
 //4.Create a function that removes the first element of the array 
 //below and adds “kiwi” to the end of the array.
 
-let favoriteFruits = ['mango', 'lychee', 'strawberry', 'papaya'] 
+let favoriteFruits = ['orange', 'lychee', 'strawberry', 'papaya'] 
 
 function favoriteFoods(favoriteFruits) {
     favoriteFruits.shift()
